@@ -21,6 +21,7 @@ const Footer = () => {
             <ul className="list-none">
               <li className="text-gray-300 hover:text-white text-sm mb-2 block">Home</li>
               <li className="text-gray-300 hover:text-white text-sm mb-2 block">Services</li>
+              <li className="text-gray-300 hover:text-white text-sm mb-2 block">About Us</li>
               <li className="text-gray-300 hover:text-white text-sm mb-2 block">Contact Us</li>
             </ul>
             <div className='w-full'>
