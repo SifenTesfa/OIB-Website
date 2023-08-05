@@ -62,14 +62,14 @@ the Geda System which our core values are guided by.
   </div>
   
   <div className=" w-96 h-96  sm:w-1/2">
-  <img src={img14} alt="img14" className="w-full h-full pr-16 md:flex object-cover" />
+  <img src={img14} alt="img14" className="w-full h-full pr-16 pl-16 md:flex object-cover" />
   </div>
 </div>  
 <div className='bg-white p-6'>
   </div> 
 <div className="flex flex-wrap">
 <div className="w-96 h-96 sm:w-1/2  md:flex">
-  <img src={img15} alt="img15" className="pl-16 w-full h-full md:flex object-cover " />
+  <img src={img15} alt="img15" className="pl-16 w-full h-full pr-14 md:flex object-cover " />
   </div>
   
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-8  ">
@@ -117,7 +117,7 @@ Our new logo and refreshed look indicate a new beginning with customer centricit
   </div>
   
   <div className=" w-96 h-96  sm:w-1/2">
-  <img src={img16} alt="img16" className="w-full h-full pr-16 md:flex object-cover" />
+  <img src={img16} alt="img16" className="w-full h-full pl-16 pr-16 md:flex object-cover" />
   </div>
   <div className='bg-white p-6'>
   </div>
