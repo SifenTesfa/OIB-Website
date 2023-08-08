@@ -5,7 +5,7 @@ import {AiOutlineFacebook,AiOutlineYoutube,AiOutlineLinkedin,AiOutlineTwitter} f
 const Footer = () => {
   return (
   <div>
-    <footer className="bg-[#4F57A0]">
+    <footer className="bg-gradient-to-br from-green-600 to-blue-900 h-screen">
       
       <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div className="flex flex-wrap justify-between">

@@ -1,5 +1,5 @@
 import React from 'react'
-import img17 from '../images/img17.jpg'
+import img33 from '../images/img33.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
@@ -13,49 +13,93 @@ import img28 from '../images/img28.jpg'
 import img29 from '../images/img29.jpg'
 import img30 from '../images/img30.jpg'
 import img32 from '../images/img32.jpg'
-
-const Orosaving = () => {
+const BankG = () => {
   return (
     <div className='pt-24'>
        
-    <img src={img17} alt="img17" className="w-full h-full pb-12 md:flex object-cover" />
+    <img src={img33} alt="img33" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
  </div>
  <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
-  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Oro Saving</p>
-  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">SAVING ACCOUNTS</p>
+  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Bank Guarantee Services</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Interest Free Financing</p>
   <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-    Oro Saving account is interest bearing accounts rendered for physical and legal persons
-Individuals, organizations and associations etc.</p>
+  A bank guarantee issued by our bank is a written promise to compensate (pay a sum of money) to the beneficiary
+   (local or foreign) in the event that the obligor fails to honor its obligations in accordance with the terms
+    and conditions of the guarantee contract. Bank guarantees are unconditional and irrevocable when a claim is presented.</p>
   
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bid Bond Guarantee</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- 24/7 Banking services via our e-channels</p>
+Bid/tender bond guarantees are guarantees issued by our Bank in favor of a designated beneficiary 
+upon the request of the bidder, representing the commitment of our Bank to meet the claims that may
+ be made by the beneficiary in the event that the bidder withdraws from the bid during the bid period or
+  fails to accept the award when he/she becomes the winner.</p>
+
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Performance Bond Guarantee</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- No monthly service charge</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Access to credit/loan facility;</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates;</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- ATM card shall be issued free of card subscription fee</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Free of charge bank statement once monthly.</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Free SMS notification service while making a transaction.</p>
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Copies of acceptable means of identification (Driver’s License, passport, I.D Card,
-and any other acceptable identification document deemed fit by the Bank)
+A performance bond guarantee is a type of guarantee that our Bank issues 
+in favor of a beneficiary at the request of the bid winner to meet any claims
+ to be made by the beneficiary, in case the bid winner fails to deliver the goods 
+ or to perform the services in accordance with the terms and conditions of the contract.
 </p>
-<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Two passport size photographs.</p>
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Steamers’ Guarantees/Letters of Indemnity for Missing Documents</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+These guarantees are issued at the request of the buyer in favor of a carrier, 
+in circumstances where the bill of lading is missing /delayed but the goods/cargo/ arrive earlier.
+</p>
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Customs Duty Guarantee</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+These are guarantees issued in favor of the Customs Authority (the beneficiary) in respect of customs 
+duties in circumstances where goods imported without payment of customs duties (sometimes with the intention
+ of re-exporting) are not re-exported and the respective customs duties have not been paid.
+</p>
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Foreign Employment Guarantee</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+A letter of guarantee issued to MoLSA by the request of foreign employment agency. No commission is collected 
+from these customers. The main aim of providing this guarantee is to generate adequate foreign currency, create 
+access to finance to the employees, and discharge our social responsibility.
+</p>
   </div>
   
-  <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Advance Payment Guarantee</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+An advance payment guarantee is a guarantee issued in favor of a buyer who makes the advance upon 
+the request of the seller or the contractor who received the advance, representing a commitment on the part
+ of our Bank to repay the sum, in case the seller or the contractor fails to honor the contract terms in their entirety,
+  or in part. An advance payment guarantee gets proportionally reduced upon partial delivery of goods or proportional to progress 
+  in construction of projects.
+</p>
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Retention Guarantee</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+Retention guarantees are issued in favor of the party accepting to release retention 
+money, upon the request of a seller or contractor, to provide security to a beneficiary,
+ in the event that the seller or the contractor fails to perform his/her/its obligation as
+  per the terms and conditions of the contract. A retention guarantee arises when a seller or a 
+  contractor wishes to collect any retention held on a contract by presenting a bank guarantee to beneficiary.
+</p>
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Trade Credit Guarantee (TCG)</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+TCG is issued to provide security to a local or foreign supplier/beneficiary on behalf of a local customer (debtor),
+ representing a commitment on the part of our Bank to meet any claims to be made by the beneficiary in case the debtor 
+ (local buyer) fails to repay in accordance with the terms and conditions of the sales contract. TCG arise when a local 
+ customer enters into a purchase contract with either a local or a foreign supplier agreeing to repay the purchase price,
+  usually on an installment basis over an agreed period of time.
+</p>
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">BG for International Air Transport Association
+(IATA) and Oil Companies</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+Letter of guarantee for International Air Transport and Oil Companies are issued for transaction of revolving 
+nature mostly to suppliers on behalf of customers.
+</p>
+<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Education Guarantee (Guarantee for consumers)</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+A type of guarantee issued in favor of Ethiopian Revenue Authority or to any legally recognized institution (Beneficiary) 
+at the request of the customer to meet any claims to be made by the beneficiary, in case the customer fails to pay the installment 
+amount of education fee (cost sharing).
+</p>
   </div>
   
 
@@ -143,7 +187,7 @@ to your finances</p>
 </p>
 </div>
 <div> 
-<img src={img32} alt="img32"  className=" animate-trans-right w-72  h-72 mr-12  ml-12 pb-4 md:flex  object-cover" />
+<img src={img32} alt="img32"  className=" w-72  h-72 mr-12  ml-12 pb-4 md:flex  object-cover" />
 </div>
 </div>
 <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center border  pt-24 pb-24'>
@@ -187,9 +231,7 @@ iOS® or Android™ device
     </div>
 </div>
  </div>
-
-    
   )
 }
 
-export default Orosaving
+export default BankG

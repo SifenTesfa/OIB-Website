@@ -1,5 +1,5 @@
 import React from 'react'
-import img17 from '../images/img17.jpg'
+import img33 from '../images/img33.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
@@ -13,46 +13,47 @@ import img28 from '../images/img28.jpg'
 import img29 from '../images/img29.jpg'
 import img30 from '../images/img30.jpg'
 import img32 from '../images/img32.jpg'
-
-const Orosaving = () => {
+const Lock = () => {
   return (
     <div className='pt-24'>
        
-    <img src={img17} alt="img17" className="w-full h-full pb-12 md:flex object-cover" />
+    <img src={img33} alt="img33" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
  </div>
  <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
-  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Oro Saving</p>
-  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">SAVING ACCOUNTS</p>
+  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Lock Box</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Conventional Banking</p>
   <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-    Oro Saving account is interest bearing accounts rendered for physical and legal persons
-Individuals, organizations and associations etc.</p>
+  It is a slotted locked box to which staffs of the Bank branch alone holds the key.</p>
   
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
+<p className=" text-sm pl-10 p-1 font-bold text-[#4F57A0] leading-relaxed m-2">
+What’s it for you?</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- 24/7 Banking services via our e-channels</p>
+- No matter what customer business is, whatever customer do, customer can save even fraction of cents every day but customer don’t need to come to our bank every day;</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- No monthly service charge</p>
+- The services described here might be offered weekly, bi-weekly, daily or when depositors want;</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Access to credit/loan facility;</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates;</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- ATM card shall be issued free of card subscription fee</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Free of charge bank statement once monthly.</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Free SMS notification service while making a transaction.</p>
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Copies of acceptable means of identification (Driver’s License, passport, I.D Card,
-and any other acceptable identification document deemed fit by the Bank)
+- The box provides a round-the-clock deposit service while withdrawals can be made only when a collector visits or the saver goes to the branch;
 </p>
-<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Two passport size photographs.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- In all cases, frequent, convenient access is the key to collecting savings before it is consumed;</p>
+
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Although these services may be financially viable or nearly so, they typically are not lucrative so interesting financial institutions in offering them can be challenging;
+</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- While customers/users of the product are ideal for collecting small change, after a time, the practice of saving may be needed to encourage them to continue saving.
+</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Copies of acceptable means of identification (I.D Card and any other acceptable identification document deemed fit by the Bank)
+</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Two passport size photographs.
+</p>
   </div>
+  
   
   <div className=" w-full h-full pl-16  sm:w-1/2">
   <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
@@ -143,7 +144,7 @@ to your finances</p>
 </p>
 </div>
 <div> 
-<img src={img32} alt="img32"  className=" animate-trans-right w-72  h-72 mr-12  ml-12 pb-4 md:flex  object-cover" />
+<img src={img32} alt="img32"  className=" w-72  h-72 mr-12  ml-12 pb-4 md:flex  object-cover" />
 </div>
 </div>
 <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center border  pt-24 pb-24'>
@@ -187,9 +188,7 @@ iOS® or Android™ device
     </div>
 </div>
  </div>
-
-    
   )
 }
 
-export default Orosaving
+export default Lock

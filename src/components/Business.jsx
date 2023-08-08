@@ -1,5 +1,5 @@
 import React from 'react'
-import img17 from '../images/img17.jpg'
+import img33 from '../images/img33.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
@@ -13,53 +13,37 @@ import img28 from '../images/img28.jpg'
 import img29 from '../images/img29.jpg'
 import img30 from '../images/img30.jpg'
 import img32 from '../images/img32.jpg'
-
-const Orosaving = () => {
+const Business = () => {
   return (
     <div className='pt-24'>
        
-    <img src={img17} alt="img17" className="w-full h-full pb-12 md:flex object-cover" />
+    <img src={img33} alt="img33" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
  </div>
  <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
-  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Oro Saving</p>
-  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">SAVING ACCOUNTS</p>
+  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Business loan</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Loans and Financing</p>
   <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-    Oro Saving account is interest bearing accounts rendered for physical and legal persons
-Individuals, organizations and associations etc.</p>
-  
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- 24/7 Banking services via our e-channels</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- No monthly service charge</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Access to credit/loan facility;</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates;</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- ATM card shall be issued free of card subscription fee</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Free of charge bank statement once monthly.</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Free SMS notification service while making a transaction.</p>
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Copies of acceptable means of identification (Driver’s License, passport, I.D Card,
-and any other acceptable identification document deemed fit by the Bank)
-</p>
-<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Two passport size photographs.</p>
+  The loan is provided to meet working capital needs as well as for project financing. 
+  Overdraft Credit (OD) Facility An overdraft credit facility is a fluctuating, short-term,
+   limited credit facility available on demand/current accounts. Overdraft facility is availed 
+   only for working capital purpose. It may be reviewed and renewed on annual basis if satisfactory
+    performance is witnessed. The performance of the facility is measured by its swing and turnover.</p>
+
   </div>
   
-  <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <div className="bg-[#ffffff] pt-16 w-full sm:w-1/2 px-2 pl-4 ">
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Term Loans</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Term loan is a loan granted to customers to be repaid within a specific period of time on regular
+ installment basis.This type of loan can be provided to customers who are engaged in all sectors of
+  the economy. The loan is provided to meet working capital needs as well as for project financing.</p>
   </div>
   
 
-<div>
+<div className='pt-16'>
 <p className="  text-xl m-2 pl-10 pb-1 font-bold   text-[#88cf09]  sm:text-2xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">
  DISCOVER</p>
 <p className="  text-xl m-2 pl-10 pb-4 font-bold   text-[#4F57A0]  sm:text-3xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">
@@ -143,7 +127,7 @@ to your finances</p>
 </p>
 </div>
 <div> 
-<img src={img32} alt="img32"  className=" animate-trans-right w-72  h-72 mr-12  ml-12 pb-4 md:flex  object-cover" />
+<img src={img32} alt="img32"  className=" w-72  h-72 mr-12  ml-12 pb-4 md:flex  object-cover" />
 </div>
 </div>
 <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center border  pt-24 pb-24'>
@@ -187,9 +171,7 @@ iOS® or Android™ device
     </div>
 </div>
  </div>
-
-    
   )
 }
 
-export default Orosaving
+export default Business
