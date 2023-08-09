@@ -3,7 +3,7 @@ import img33 from '../images/img33.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
-import img22 from '../images/img22.jpg'
+import img41 from '../images/img41.png'
 import img23 from '../images/img23.jpg'
 import img24 from '../images/img24.jpg'
 import img25 from '../images/img25.jpg'
@@ -42,28 +42,32 @@ Handhura saving account is available in two categories:
   
 <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates (the more you save, the more you earn)</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Notification bonus through SMS.</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Based on the longevity of the relationship and business nature, the credit could be provided at the lower lending
- rate or with the modest collateral requirement.</p>
-
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Copies of acceptable means of identification (Driver’s License, passport, I.D Card,
-and any other acceptable identification document deemed fit by the Bank)
+- The account can be opened with zero balance as long as the customer agrees to make deposit within a month since the opening date;
 </p>
-<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Two passport size photographs.</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Withdrawal at any time and any amount is allowed;</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Payment is enabled to the junior when he/she attains the age of youth i.e. the account will
+ be changed to normal saving when the age of the minor reaches 18 years;</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+After age of 18 years, the minor has the right to operate the account without the guidance of his/her guardian.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Withdrawal at any time and any amount is allowed;</p>
   </div>
   
-  <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 pt-16 ">
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
+  <p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- The parent or guardian shall present documents such as birth certificate of the minor, 2 passport size photos of the child and letter of appointment by court, in the case of a guardian.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Copies of acceptable means of identification of the parent or the guardian (Driver’s License, passport, I.D Card, and any other acceptable identification document deemed fit by the Bank)</p>
+<div className=" w-full h-80  sm:w-1/2">
+  <img src={img41} alt="img41" className="w-full h-full  md:flex object-cover pb-12" />
+  </div>
   </div>
   
 
-<div>
+<div className='pt-24'>
 <p className="  text-xl m-2 pl-10 pb-1 font-bold   text-[#88cf09]  sm:text-2xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">
  DISCOVER</p>
 <p className="  text-xl m-2 pl-10 pb-4 font-bold   text-[#4F57A0]  sm:text-3xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">

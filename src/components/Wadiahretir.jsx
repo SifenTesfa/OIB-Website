@@ -3,7 +3,7 @@ import img33 from '../images/img33.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
-import img22 from '../images/img22.jpg'
+import img38 from '../images/img38.jpg'
 import img23 from '../images/img23.jpg'
 import img24 from '../images/img24.jpg'
 import img25 from '../images/img25.jpg'
@@ -23,21 +23,22 @@ const Wadiahretir = () => {
  <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
-  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> OroSaving Plus</p>
-  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Special Saving Accounts</p>
+  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Wadi’ah Retirement</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Wadhi’ah Special Saving Accounts</p>
   <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-  Oro saving plus account is a saving account for credit scheme that targets individuals particularly employees where
-   they save a certain amount of money to get loan for purchase of a vehicle and/or a house i.e. it is a saving account 
-   that attaches loan privilege.</p>
+  The Seniors Account offers free banking services to individuals aged 60 years and above. 
+  Designed to reward our senior citizens, this account package also guarantees priority treatment
+   for account holders across all of our branches.</p>
   
 <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates (the more you save, the more you earn)</p>
+- 24/7 Banking services via our e-channels</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Notification bonus through SMS.</p>
+- ATM card shall be issued free of card subscription fee</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Based on the longevity of the relationship and business nature, the credit could be provided at the lower lending
- rate or with the modest collateral requirement.</p>
+- Free SMS notification service while making a transaction</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Access to Fast Track lane in branches (no need to queue).</p>
 
 <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
@@ -49,9 +50,8 @@ and any other acceptable identification document deemed fit by the Bank)
   </div>
   
   <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <img src={img38} alt="img38" className="w-full h-full pr-16 md:flex object-cover pb-12" />
   </div>
-  
 
 <div>
 <p className="  text-xl m-2 pl-10 pb-1 font-bold   text-[#88cf09]  sm:text-2xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">

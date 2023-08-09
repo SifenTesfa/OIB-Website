@@ -39,6 +39,7 @@ import BankG from "./components/BankG";
 import Money from "./components/Money";
 import Partnership from "./components/Partnership";
 import Trade from "./components/Trade";
+import Coorespondent from "./components/Coorespondent";
 
 function App() {
   return (
@@ -83,6 +84,7 @@ function App() {
       <Route path='/money' element={<Money/>}/>
       <Route path='/partnership' element={<Partnership/>}/>
       <Route path='/trade' element={<Trade/>}/>
+      <Route path='/coorespondent' element={<Coorespondent/>}/>
      </Routes>
      <Footer/>
      

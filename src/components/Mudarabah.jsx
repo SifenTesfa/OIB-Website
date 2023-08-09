@@ -23,37 +23,59 @@ const Mudarabah = () => {
  <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
-  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> OroSaving Plus</p>
-  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Special Saving Accounts</p>
+  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Mudarabah Investment</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Investment Account</p>
   <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-  Oro saving plus account is a saving account for credit scheme that targets individuals particularly employees where
-   they save a certain amount of money to get loan for purchase of a vehicle and/or a house i.e. it is a saving account 
-   that attaches loan privilege.</p>
-  
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates (the more you save, the more you earn)</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Notification bonus through SMS.</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Based on the longevity of the relationship and business nature, the credit could be provided at the lower lending
- rate or with the modest collateral requirement.</p>
+  Murabaha to the Purchase Order (cost plus): It is a sale of commodity for the
+   price at which the seller (Oromia Bank) has purchased it, with the addition of 
+   stated profit known to both the buyer and seller.</p>
+   <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+   It is for any customers who are involving in different business activities such as; 
+   Import and export business activities, Tangible commodities, Transportation services
+    and who buy vehicles for him/herself or buy vehicles for rent, Raw materials or inputs for industrial production.</p>
 
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
+<p className=" text-sm pl-10 font-bold p-1 text-[#4F57A0] leading-relaxed m-2">
+Unique Features</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Copies of acceptable means of identification (Driver’s License, passport, I.D Card,
-and any other acceptable identification document deemed fit by the Bank)
+- It is a pure sharia compliant financing service;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- It is a sale of a commodity for a deferred price which includes an agreed profit added to the cost;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- The bank itself purchases the commodity and keeps it in its own possession or purchases the commodity through a third person appointed by it as agent before selling it to the customer;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Repayment through easily affordable installments;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Short-term to medium-term financing;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- The Bank may ask collateral for this kind of service.
 </p>
-<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Two passport size photographs.</p>
+
   </div>
   
-  <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <div className="bg-[#ffffff] pt-28 w-full sm:w-1/2 px-2 pl-4 ">
+  <p className=" pb-4 font-bold text-sm pl-8 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Terms and conditions</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- The Bank must have a title to the commodity before he sells it to his client;
+</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- The commodity must come into possession of the bank, whether physically or constructively;
+</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- The sale cannot take place unless the commodity comes into the possession of the seller but the
+ seller can sign an agreement to sell even when the commodity is not in his possession;
+</p>
+<p className=" text-sm pl-10 p-1 font-bold text-[#4F57A0] leading-relaxed m-2">
+What’s in it for you?
+</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Free of Riba (interest) account but with Very competitive profit return rates;
+</p>
+
   </div>
   
 
-<div>
+<div className='pt-24'>
 <p className="  text-xl m-2 pl-10 pb-1 font-bold   text-[#88cf09]  sm:text-2xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">
  DISCOVER</p>
 <p className="  text-xl m-2 pl-10 pb-4 font-bold   text-[#4F57A0]  sm:text-3xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">

@@ -63,7 +63,7 @@ access to finance to the employees, and discharge our social responsibility.
 </p>
   </div>
   
-  <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
+  <div className="bg-[#ffffff] pt-16 w-full sm:w-1/2 px-2 pl-4 ">
   <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Advance Payment Guarantee</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
 An advance payment guarantee is a guarantee issued in favor of a buyer who makes the advance upon 
@@ -103,7 +103,7 @@ amount of education fee (cost sharing).
   </div>
   
 
-<div>
+<div className='pt-24'>
 <p className="  text-xl m-2 pl-10 pb-1 font-bold   text-[#88cf09]  sm:text-2xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">
  DISCOVER</p>
 <p className="  text-xl m-2 pl-10 pb-4 font-bold   text-[#4F57A0]  sm:text-3xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">

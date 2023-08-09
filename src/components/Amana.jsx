@@ -23,37 +23,53 @@ const Amana = () => {
  <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
-  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> OroSaving Plus</p>
-  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Special Saving Accounts</p>
-  <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-  Oro saving plus account is a saving account for credit scheme that targets individuals particularly employees where
-   they save a certain amount of money to get loan for purchase of a vehicle and/or a house i.e. it is a saving account 
-   that attaches loan privilege.</p>
-  
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
+  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Amana</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Wadi’ah Savings Account</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#4F57A0]  sm:text-xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates (the more you save, the more you earn)</p>
+- 24/7 Banking services via our e-channels</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Notification bonus through SMS.</p>
+- No monthly service charge</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Based on the longevity of the relationship and business nature, the credit could be provided at the lower lending
- rate or with the modest collateral requirement.</p>
-
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
+- Access to financing facility;</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Copies of acceptable means of identification (Driver’s License, passport, I.D Card,
-and any other acceptable identification document deemed fit by the Bank)
+- ATM card shall be issued free of card subscription fee
 </p>
-<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Two passport size photographs.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Free of charge bank statement once monthly.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Free notification service while making a transaction.</p>
+<p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Requirements</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">For Sole Proprietor (Individual Trader)</p>
+  <p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Copies of acceptable means of identification (Driver’s License, passport, I.D Card, and any other acceptable identification document deemed fit by the Bank)</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Renewed trade license.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Tax Identification Number (TIN).</p>
   </div>
   
-  <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <div className="bg-[#ffffff] w-full sm:w-1/2 pt-16 px-2 pl-4 ">
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">For Corporate Bodies</p>
+  <p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Letter of request to open and operate the account signed by the authorized person.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Renewed trade license and/or investment certificate in the Organization’s name.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Principal registration certification</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Tax Identification Number (TIN).</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Memorandum and Article of Association.</p>
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Copies of acceptable means of identification (Driver’s License, passport, I.D Card, and any other acceptable identification
+ document deemed fit by the Bank) of the Authorized person to operate the account.</p>
+<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Partnership agreement (for partnership business).</p>
   </div>
   
 
-<div>
+<div className='pt-24'>
 <p className="  text-xl m-2 pl-10 pb-1 font-bold   text-[#88cf09]  sm:text-2xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">
  DISCOVER</p>
 <p className="  text-xl m-2 pl-10 pb-4 font-bold   text-[#4F57A0]  sm:text-3xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">

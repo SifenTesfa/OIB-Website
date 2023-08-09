@@ -638,7 +638,7 @@ const handleNav=()=>{
                           text-gray-500 font-medium text-[13px]'>FINANCING SERVICES</p>
                             <ul className='mt-3 text-[15px]'>
                               <li>
-                                <a href="/murabaha" className='block p-2 -mx-2
+                                <a href="/murabahaf" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -651,7 +651,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/interestf" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -664,7 +664,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/ijarah" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -677,7 +677,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/salam" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -700,7 +700,7 @@ const handleNav=()=>{
                           text-gray-500 font-medium text-[13px]'>OTHERS SERVICES</p>
                             <ul className='mt-3 text-[15px]'>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/bankg" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -713,7 +713,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/money" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -726,7 +726,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/partnership" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -735,6 +735,20 @@ const handleNav=()=>{
                                 ease-in-out duration-300 
                                 text-gray-800 font-semibold
                                 hover:text-indigo-600'>Partnership-Based Financing
+                                </a>
+
+                              </li>
+
+                              <li>
+                                <a href="/trade" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Trade Finance
                                 </a>
 
                               </li>
@@ -781,7 +795,7 @@ const handleNav=()=>{
                       
                             <ul className=' text-[15px]'>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/trade" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -794,7 +808,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/money" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -807,7 +821,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/coorespondent" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
