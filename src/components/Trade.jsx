@@ -23,37 +23,83 @@ const Trade = () => {
  <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
-  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> OroSaving Plus</p>
-  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Special Saving Accounts</p>
-  <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-  Oro saving plus account is a saving account for credit scheme that targets individuals particularly employees where
-   they save a certain amount of money to get loan for purchase of a vehicle and/or a house i.e. it is a saving account 
-   that attaches loan privilege.</p>
-  
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates (the more you save, the more you earn)</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Notification bonus through SMS.</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Based on the longevity of the relationship and business nature, the credit could be provided at the lower lending
- rate or with the modest collateral requirement.</p>
-
-<p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
-<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Copies of acceptable means of identification (Driver’s License, passport, I.D Card,
-and any other acceptable identification document deemed fit by the Bank)
+  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Trade Finance
 </p>
-<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Two passport size photographs.</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">International Banking</p>
+  <p className=" text-sm font-bold pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+  Trade Finance</p>
+  <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+  Oromia International Bank provides import and export services to its customers to facilitate trade in the global market. OIB provides expertise advice and quick customer services with the aim of laying the platform to smooth trade activities and
+transactions between sellers and buyers.</p>
+  
+<p className=" text-sm font-bold pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+Import</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+The methods of payments used to entertain customers import processing through 
+our bank are Letters of Credit (LC), Cash Against Documents (CAD), Cash in advance, Consignment.</p>
+<p className=" text-sm font-bold pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+Export</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+The methods of payments used to entertain customers export processing through our
+ bank are Letters of Credit (LC), Cash Against Documents (CAD), Cash in advance, Consignment</p>
+ <p className=" text-sm font-bold pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+ Documents Required for Import Letter of Credit</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- L/C opening application form duly completed;
+</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Foreign exchange application form duly completed, signed and sealed by an importer;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Three copies of Performa invoice clearly showing full description of goods,
+ including quantity, grade, quality, volume,unit of measurement, mode of shipment,
+  terms of payment, unit price, and total price of the goods at a named place of delivery;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Photocopy of valid foreign trade, investment or industry license and TIN certificate;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Insurance certificate from licensed local insurance company;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- It will be checked that the applicant’s name is not in the delinquent list of National Bank of Ethiopia (NBE);</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Cash Against Document (CAD)</p>
   </div>
   
-  <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <div className="bg-[#ffffff] w-full pt-28 sm:w-1/2 px-2 pl-16 ">
+  <p className=" text-sm font-bold pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+  Required documents for Imports by CAD at sight</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Previously approved purchase order by the bank, Performa invoice, valid foreign trade, investment or industry license.
+</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Taxpayer registration certificate;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- One copy of local insurance certificate for goods to be imported;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Foreign Exchange application form duly completed, signed and stamped together with the following documents;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Three copies of chamberized invoices;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Two copies of certificate of origin;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Full sets of shipping documents (i.e. bill of lading, airway bill/Truck manifest/railway bill/couriers etc. and carrier invoice to indicate the actual fright charges, if it is CRF;)</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Advance Payment.</p>
+<p className=" text-sm font-bold pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+Required documents for Letter of Credit</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Valid trade license for export;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Copy of authenticated L/C;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Four copies of completed Bank permit for Export of Goods (permit form to be supplied by the bank);</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Two copies of invoices duly completed, signed and stamped. The invoice should be authenticated by the Ethiopian chamber of commerce as the case may be;</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- A copy of sales contract.</p>
+
   </div>
   
 
-<div>
+<div className='pt-24'>
 <p className="  text-xl m-2 pl-10 pb-1 font-bold   text-[#88cf09]  sm:text-2xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">
  DISCOVER</p>
 <p className="  text-xl m-2 pl-10 pb-4 font-bold   text-[#4F57A0]  sm:text-3xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">

@@ -3,7 +3,7 @@ import img33 from '../images/img33.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
-import img22 from '../images/img22.jpg'
+import img40 from '../images/img40.png'
 import img23 from '../images/img23.jpg'
 import img24 from '../images/img24.jpg'
 import img25 from '../images/img25.jpg'
@@ -57,7 +57,7 @@ and letter of appointment by court, in the case of a guardian.
   </div>
   
   <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <img src={img40} alt="img40" className="w-full h-full pr-16 md:flex object-cover pb-12" />
   </div>
   
 

@@ -3,7 +3,7 @@ import img33 from '../images/img33.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
-import img22 from '../images/img22.jpg'
+import img38 from '../images/img38.jpg'
 import img23 from '../images/img23.jpg'
 import img24 from '../images/img24.jpg'
 import img25 from '../images/img25.jpg'
@@ -23,37 +23,40 @@ const Hayyu = () => {
  <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-4 ">
-  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> OroSaving Plus</p>
-  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Special Saving Accounts</p>
+  <p className=" text-xl mb-4 font-bold p-1 pl-10 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Hayyu Wadi’ah Education</p>
+  <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Wadhi’ah Special Saving Accounts</p>
   <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-  Oro saving plus account is a saving account for credit scheme that targets individuals particularly employees where
-   they save a certain amount of money to get loan for purchase of a vehicle and/or a house i.e. it is a saving account 
-   that attaches loan privilege.</p>
+  Hayyu Wadi’ah Education Solution Account shall be a type of savings account that is setup by an adult 
+  for the benefit of tertiary level students who receive money from their parents/relatives or others.</p>
   
 <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">What’s in it for you?</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Competitive interest rates (the more you save, the more you earn)</p>
+- 24/7 Banking services via our e-channels</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Notification bonus through SMS.</p>
+- ATM card shall be issued free of card subscription fee</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
-- Based on the longevity of the relationship and business nature, the credit could be provided at the lower lending
- rate or with the modest collateral requirement.</p>
+- Free SMS notification service while making a transaction</p>
+<p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Post graduate access to financing facility as per the financing policy and procedure of the Bank.</p>
 
 <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-2xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Requirements</p>
 <p className=" text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
 - Copies of acceptable means of identification (Driver’s License, passport, I.D Card,
 and any other acceptable identification document deemed fit by the Bank)
 </p>
-<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+<p className="  text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
 - Two passport size photographs.</p>
+<p className=" pb-10 text-sm pl-10 p-1 text-[#4F57A0] leading-relaxed m-2">
+- Student Identification Card.</p>
   </div>
   
   <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <img src={img38} alt="img38" className="w-full h-full pr-16 md:flex object-cover pb-12" />
   </div>
+
   
 
-<div>
+<div className='pt-24'>
 <p className="  text-xl m-2 pl-10 pb-1 font-bold   text-[#88cf09]  sm:text-2xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">
  DISCOVER</p>
 <p className="  text-xl m-2 pl-10 pb-4 font-bold   text-[#4F57A0]  sm:text-3xl mx-auto flex flex-row items-center  md:flex-row writing-mode-vertical-rl">

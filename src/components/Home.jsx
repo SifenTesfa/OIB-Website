@@ -43,7 +43,7 @@ const Home = () => {
 <div className="flex flex-wrap">
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
-  <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Our Visual System.</p>
+  <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Our Visual System</p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Our visual system is dynamic, futuristic and forward
 thinking; creating a brand that feels like part of your
@@ -110,7 +110,7 @@ EMPOWER the missing middle to maximize their benefits and it’s vital for
   
   <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
   <p className=" text-xl mb-4 font-bold p-1 text-[#88cf09]  sm:text-4xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">BUILDING THE BRAND</p>
-  <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Keeping the Promise.</p>
+  <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0]  sm:text-5xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl"> Keeping the Promise</p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Our brand promise is not only a tagline, but rather our inspiration and 
     communicates the value that we offer in the market we operate. Our promise, 
