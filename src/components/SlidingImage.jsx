@@ -24,12 +24,14 @@ const SlidingImage = () => {
   ];
 
   return (
-    <div className="w-full max-w-lg sm:max-w-md md:max-w-lg lg:max-w-full ">
+    <div className="w-full max-w-lg sm:max-w-md  md:max-w-lg lg:max-w-full ">
       <img
-        className="w-full h-full animate-slide"
+        className="w-full h-auto animate-slide"
         src={images[slideIndex]}
         alt="Sliding Image"
+        
       />
+      
     </div>
   );
 };

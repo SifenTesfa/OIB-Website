@@ -980,7 +980,17 @@ const handleNav=()=>{
            <div className={!nav ? 'fixed left-0 top-0 w-[80%] h-full border-r border-r-purple-700 bg-[#4F57A0] ease-in-out duration-500  md:hidden':'fixed left-[-100%] block md:hidden  '}>
            <h1 className='w-full text-3xl font-bold m-3 text-[#ffffff]'>Oromia Bank</h1> 
            <ul className=' uppercase p-3 block md:hidden'>
-            <li className='p-2  border-b border-white-600  text-[#ffffff]'>Home</li>
+            <li className='p-2  border-b border-white-600  text-[#ffffff]'><a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-green-500
+                                hover:to-green-500
+                                hover:via-green-500 transition
+                                ease-in-out duration-300 
+                               
+                                hover:text-indigo-600'>Home
+                                </a>
+</li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>About Us</li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>Conventional</li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>Interest Free</li>

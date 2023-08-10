@@ -13,18 +13,18 @@ const Coorespondent = () => {
     <div><img src={img33} alt="img33" className="w-full h-full pb-12 md:flex object-cover" />
     <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center'>
         <div>
-  <img src={img58} alt="img58" className='w-24 h-24 m-16'/>
+  <img src={img58} alt="img58" className='w-36 h-24 m-16'/>
   <p></p>
   </div>
-  <img src={img58} alt="img58" className='w-24 h-24 m-16'/>
-  <img src={img59} alt="img59" className='w-24 h-24 m-16'/>
-  <img src={img59} alt="img59" className='w-24 h-24 m-16'/>
+  <img src={img58} alt="img58" className='w-36 h-24 m-16 '/>
+  <img src={img59} alt="img59" className='w-36 h-24 m-16'/>
+  <img src={img59} alt="img59" className='w-36 h-24 m-16'/>
   </div>
   <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center'>
-  <img src={img60} alt="img60" className='w-24 h-24 m-16'/>
-  <img src={img61} alt="img61" className='w-24 h-24 m-16'/>
-  <img src={img62} alt="img62" className='w-24 h-24 m-16'/>
-  <img src={img63} alt="img63" className='w-24 h-24 m-16'/>
+  <img src={img60} alt="img60" className='w-36 h-24 m-16'/>
+  <img src={img61} alt="img61" className='w-36 h-24 m-16'/>
+  <img src={img62} alt="img62" className='w-36 h-24 m-16'/>
+  <img src={img63} alt="img63" className='w-36 h-24 m-16'/>
   </div>
   
     </div>

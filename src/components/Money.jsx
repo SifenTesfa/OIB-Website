@@ -56,22 +56,22 @@ Payments will be processed to individuals and or organizations aboard upon the r
   </div>
   </div>
   <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center'>
-  <img src={img45} alt="img45" className='w-24 h-24 m-16'/>
-  <img src={img46} alt="img46" className='w-24 h-24 m-16'/>
-  <img src={img47} alt="img47" className='w-24 h-24 m-16'/>
-  <img src={img48} alt="img48" className='w-24 h-24 m-16'/>
+  <img src={img45} alt="img45" className='w-32 h-24 m-16'/>
+  <img src={img46} alt="img46" className='w-32 h-24 m-16'/>
+  <img src={img47} alt="img47" className='w-32 h-24 m-16'/>
+  <img src={img48} alt="img48" className='w-32 h-24 m-16'/>
   </div>
   <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center'>
-  <img src={img49} alt="img49" className='w-24 h-24 m-16'/>
-  <img src={img50} alt="img50" className='w-24 h-24 m-16'/>
-  <img src={img51} alt="img51" className='w-24 h-24 m-16'/>
-  <img src={img52} alt="img52" className='w-24 h-24 m-16'/>
+  <img src={img49} alt="img49" className='w-32 h-24 m-16'/>
+  <img src={img50} alt="img50" className='w-32 h-24 m-16'/>
+  <img src={img51} alt="img51" className='w-32 h-24 m-16'/>
+  <img src={img52} alt="img52" className='w-32 h-24 m-16'/>
   </div>
   <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center'>
-  <img src={img53} alt="img53" className='w-24 h-24 m-16'/>
-  <img src={img54} alt="img54" className='w-24 h-24 m-16'/>
-  <img src={img55} alt="img55" className='w-24 h-24 m-16'/>
-  <img src={img56} alt="img56" className='w-24 h-24 m-16'/>
+  <img src={img53} alt="img53" className='w-32 h-24 m-16'/>
+  <img src={img54} alt="img54" className='w-32 h-24 m-16'/>
+  <img src={img55} alt="img55" className='w-32 h-24 m-16'/>
+  <img src={img56} alt="img56" className='w-32 h-24 m-16'/>
   </div>
  </div>
   )

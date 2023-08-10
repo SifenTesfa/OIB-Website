@@ -3,7 +3,7 @@ import img33 from '../images/img33.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
-import img22 from '../images/img22.jpg'
+import img42 from '../images/img42.png'
 import img23 from '../images/img23.jpg'
 import img24 from '../images/img24.jpg'
 import img25 from '../images/img25.jpg'
@@ -54,7 +54,7 @@ and any other acceptable identification document deemed fit by the Bank)
   </div>
   
   <div className=" w-full h-full pl-16  sm:w-1/2">
-  <img src={img22} alt="img22" className="w-full h-full pr-16 md:flex object-cover pb-12" />
+  <img src={img42} alt="img42" className="w-full h-full pr-16 md:flex object-cover pb-12" />
   </div>
   
 
