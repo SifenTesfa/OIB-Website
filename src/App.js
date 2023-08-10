@@ -40,12 +40,13 @@ import Money from "./components/Money";
 import Partnership from "./components/Partnership";
 import Trade from "./components/Trade";
 import Coorespondent from "./components/Coorespondent";
-
+import Exchangerate from "./components/Exchangerate";
 function App() {
   return (
     <>
     
      <Navbar/>
+    <Exchangerate />
     <Routes>
      <Route path='/' element={<Home/>}/>
       <Route path='/orosaving' element={<Orosaving/>}/>

@@ -1,6 +1,5 @@
 import React from 'react';
 import Typed from 'react-typed';
-import video from "../video/vi8.mp4"
 import logo2 from '../images/logo2.png';
 import img14 from '../images/img14.jpg';
 import img15 from '../images/img15.jpg'
@@ -12,21 +11,18 @@ const Home = () => {
    
         return (
             
-     <div> 
-      <div className="flex  pt-48 justify-center items-center h-screen">
+     <div className='pt-24 '> 
+      <div className="flex  justify-center items-center ">
       <SlidingImage />
     </div>
       
-      <div className="flex pt-24 flex-wrap">
-
-</div>
        <div className='bg-white p-6'>
   </div> 
-       <div className="flex flex-wrap">
+       <div className="flex pt-4 flex-wrap">
   <div className="w-full sm:w-1/2">
   <img src={logo2} alt="logo2" className="w-full h-auto" />
   </div>
-  <div className="w-full sm:w-1/2 px-1 bg-[#ffffff]">
+  <div className="w-full sm:w-1/2 px-1 pt-10 bg-[#ffffff]">
   <p className='md:text-5xl sm:text-4xl text-xl font-bold mt-24 text-[#88cf09] px-1'> Serving to</p> 
                   <Typed className='md:text-5xl h-56 text-[#4F57A0] sm:text4xl text-xl font-bold p-1'
                   strings={['Empower You.']} 
