@@ -1,5 +1,5 @@
 import React from 'react'
-import img33 from '../images/img33.jpg'
+import img85 from '../images/img85.webp'
 import img45 from '../images/img45.png'
 import img46 from '../images/img46.png'
 import img47 from '../images/img47.png'
@@ -16,7 +16,7 @@ const Money = () => {
   return (
     <div className='pt-24'>
        
-    <img src={img33} alt="img33" className="w-full h-full pb-12 md:flex object-cover" />
+    <img src={img85} alt="img85" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
  </div>
  <div className="flex flex-wrap">

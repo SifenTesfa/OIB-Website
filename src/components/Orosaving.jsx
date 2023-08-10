@@ -1,5 +1,5 @@
 import React from 'react'
-import img17 from '../images/img17.jpg'
+import img70 from '../images/img70.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
@@ -18,7 +18,7 @@ const Orosaving = () => {
   return (
     <div className='pt-24'>
        
-    <img src={img17} alt="img17" className="w-full h-full pb-12 md:flex object-cover" />
+    <img src={img70} alt="img70" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
  </div>
  <div className="flex flex-wrap">

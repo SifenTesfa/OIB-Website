@@ -1,5 +1,5 @@
 import React from 'react'
-import img17 from '../images/img17.jpg'
+import img64 from '../images/img64.png'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
@@ -17,7 +17,7 @@ const Orointerest = () => {
   return (
     <div className='pt-24'>
        
-    <img src={img17} alt="img17" className="w-full h-full pb-12 md:flex object-cover" />
+    <img src={img64} alt="img64" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
  </div>
  <div className="flex flex-wrap">
