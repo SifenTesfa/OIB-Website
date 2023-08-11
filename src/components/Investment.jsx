@@ -1,9 +1,8 @@
 import React from 'react'
-import img33 from '../images/img33.jpg'
+import img17 from '../images/img17.jpg'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
-import img22 from '../images/img22.jpg'
 import img23 from '../images/img23.jpg'
 import img24 from '../images/img24.jpg'
 import img25 from '../images/img25.jpg'
@@ -17,7 +16,7 @@ const Investment = () => {
   return (
     <div className='pt-24'>
        
-    <img src={img33} alt="img33" className="w-full h-full pb-12 md:flex object-cover" />
+    <img src={img17} alt="img17" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
  </div>
  <div className="flex flex-wrap">

@@ -1,9 +1,8 @@
 import React from 'react'
-import img33 from '../images/img33.jpg'
+import img67 from '../images/img67.png'
 import img19 from '../images/img19.png'
 import img20 from '../images/img20.png'
 import img21 from '../images/img21.png'
-import img22 from '../images/img22.jpg'
 import img23 from '../images/img23.jpg'
 import img24 from '../images/img24.jpg'
 import img25 from '../images/img25.jpg'
@@ -15,9 +14,9 @@ import img30 from '../images/img30.jpg'
 import img32 from '../images/img32.jpg'
 const Diaspora = () => {
   return (
-    <div className='pt-24'>
+    <div className='pt-28'>
        
-    <img src={img33} alt="img33" className="w-full h-full pb-12 md:flex object-cover" />
+    <img src={img67} alt="img67" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
  </div>
  <div className="flex flex-wrap ">

@@ -974,7 +974,7 @@ const handleNav=()=>{
             <button className='p-4 m-4  rounded-2xl text-[#ffffff] bg-[#4F57A0] '>Online Banking</button>
             < AiOutlineSearch className="hover:scale-150 duration-200 h-11 w-11 mt-6 mr-4 text-[#4F57A0]  " aria-hidden="true" />
            </ul>
-           <div onClick={handleNav} className='block md:hidden'>
+           <div onClick={handleNav} className='block mt-8 md:hidden'>
             {!nav ?<AiOutlineClose  size={20}/>: <AiOutlineMenu size={20}/>}
            </div>
            <div className={!nav ? 'fixed left-0 top-0 w-[80%] h-full border-r border-r-purple-700 bg-[#4F57A0] ease-in-out duration-500  md:hidden':'fixed left-[-100%] block md:hidden  '}>
@@ -990,7 +990,7 @@ const handleNav=()=>{
                                
                                 hover:text-indigo-600'>Home
                                 </a>
-</li>
+               </li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>About Us</li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>Conventional</li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>Interest Free</li>
