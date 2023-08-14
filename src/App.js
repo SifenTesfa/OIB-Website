@@ -40,6 +40,7 @@ import Money from "./components/Money";
 import Partnership from "./components/Partnership";
 import Trade from "./components/Trade";
 import Coorespondent from "./components/Coorespondent";
+import Contact from "./components/Contact";
 function App() {
   return (
     <>
@@ -85,6 +86,7 @@ function App() {
       <Route path='/partnership' element={<Partnership/>}/>
       <Route path='/trade' element={<Trade/>}/>
       <Route path='/coorespondent' element={<Coorespondent/>}/>
+      <Route path='/contact' element={<Contact/>}/>
      </Routes>
      <Footer/>
      
