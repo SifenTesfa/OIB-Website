@@ -29,8 +29,9 @@ const Home = () => {
                   typedSpeed={120}
                   backSpeed={140}
                   loop/> 
-    <p className='text-[#4F57A0] h-56 mt-6 font-bold pr-16'>This majestic symbol embodies power, courage, and personal drive that motivates customers to achieve and accelerate their business.</p>
-  </div>
+                  
+    <p className='text-[#4F57A0] h-56 mt-6 font-bold pr-16'>This majestic symbol embodies power, courage, and personal drive that motivates customers to achieve and accelerate their business.</p></div>
+ 
 </div>
           
 <div className='bg-white p-6'>

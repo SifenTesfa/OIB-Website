@@ -10,7 +10,7 @@ const handleNav=()=>{
 } 
     return(
       
-        <div className='fixed flex justif-between item-center h-17 w-full mx-auto px-4 text-[#4F57A0] bg-[#e6e9e2]'>
+        <div className='fixed  flex justif-between item-center h-17 w-full mx-auto px-4 text-[#4F57A0] bg-[#e6e9e2]'>
              <div className='w-full flex md:flex'>
            <img src={logo} alt="my logo" className="h-24 md:flex" /> 
 
@@ -24,7 +24,7 @@ const handleNav=()=>{
                 <button className='hover:opacity-50 cursor-default'>
                  <a href="/"> Home </a></button> </li> 
                 </ul></nav>
-          <nav className='flex '>
+          <nav className='flex  '>
             <ul className='flex pr-8 items-center justify-center font-semibold'>
                 <li className='relative group px-3 py-2'>
 
@@ -969,7 +969,7 @@ const handleNav=()=>{
          <nav className='flex pr-12'>
             <ul className='flex items-center justify-center font-semibold'>
                 <li className='relative group px-3 py-2'>
-                <button className='hover:opacity-50 cursor-default'>Contact</button> </li> 
+                <button className='hover:opacity-50 cursor-default'><a href="/contact"> Contact </a></button> </li> 
                 </ul></nav>
             <button className='p-4 m-4  rounded-2xl text-[#ffffff] bg-[#4F57A0] '>Online Banking</button>
             < AiOutlineSearch className="hover:scale-150 duration-200 h-11 w-11 mt-6 mr-4 text-[#4F57A0]  " aria-hidden="true" />
@@ -991,8 +991,250 @@ const handleNav=()=>{
                                 hover:text-indigo-600'>Home
                                 </a>
                </li>
-            <li className='p-2 border-b border-white-600  text-[#ffffff]'>About Us</li>
-            <li className='p-2 border-b border-white-600  text-[#ffffff]'>Conventional</li>
+               
+            <li className='relative group px-3 py-2'>
+
+            <nav className='flex items-center justify-center  sm:justify-center '>
+            <ul className='flex pr-8 items-center justify-center font-semibold'>
+                <li className='relative p-2 border-b  border-white-600  text-[#ffffff] group px-3 py-2'>
+
+                <button className='hover:opacity-50 cursor-default '>About Us</button>
+                <div className='absolute top-7 -left-48 transition
+                group-hover:translate-y-5 translate-y-0
+                opacity-0 invisible group-hover:opacity-100
+                group-hover:visible duration-500 ease-in-out
+                group-hover:transform z-50 min-w-[360px]
+                transform'>
+                  <div className='relative top-6 p-6 bg-white
+                  rounded-xl shadow-xl w-full'>
+                    <div className='w-10 h-10 bg-white transform
+                    rotate-45 absolute top-0 z-0
+                    translate-x-0 transition-transform
+                    group-hover:translate-x-[12rem]
+                    duration-500 ease-in-out rounded-sm'>
+
+                    </div>
+                    <div className='relative z-10'>
+                         <div className='grid grid-cols-1 gap-1'>
+                        <div>
+                      
+                            <ul className=' pl-32 text-[15px]'>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Who We Are
+                                </a>
+
+                              </li>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Corporte Governance
+                                </a>
+
+                              </li>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Board Of Directors
+                                </a>
+
+                              </li>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Giving Back
+                                </a>
+
+                              </li>
+                            </ul>
+                          
+                        </div>
+                   <div>
+                  
+                            <ul className=' pl-32 text-[15px]'>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Bank Achievement
+                                </a>
+
+                              </li>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Annual Reports
+                                </a>
+
+                              </li>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>News and Updates
+                                </a>
+
+                              </li>
+                            </ul>
+                   </div>
+                          </div>   
+                    </div>
+                  </div>
+            
+                </div>
+                </li>
+            </ul> </nav></li>
+            <li className='relative group px-3 py-2'>
+
+            <nav className='flex items-center justify-center  sm:justify-center '>
+            <ul className='flex pr-8 items-center justify-center font-semibold'>
+                <li className='relative p-2 border-b  border-white-600  text-[#ffffff] group px-3 py-2'>
+
+                <button className='hover:opacity-50 cursor-default '>Conventional</button>
+                <div className='absolute top-7 -left-48 transition
+                group-hover:translate-y-5 translate-y-0
+                opacity-0 invisible group-hover:opacity-100
+                group-hover:visible duration-500 ease-in-out
+                group-hover:transform z-50 min-w-[360px]
+                transform'>
+                  <div className='relative top-6 p-6 bg-white
+                  rounded-xl shadow-xl w-full'>
+                    <div className='w-10 h-10 bg-white transform
+                    rotate-45 absolute top-0 z-0
+                    translate-x-0 transition-transform
+                    group-hover:translate-x-[12rem]
+                    duration-500 ease-in-out rounded-sm'>
+
+                    </div>
+                    <div className='relative z-10'>
+                         <div className='grid grid-cols-1 gap-1'>
+                        <div>
+                      
+                            <ul className=' pl-32 text-[15px]'>
+                              <li>
+                              <button className='hover:opacity-50 cursor-default '> <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Saving Accounts
+                                </a> </button>
+                                       
+                              </li>
+
+
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Special Account
+                                </a>
+
+                              </li>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Checking Business Account
+                                </a>
+
+                              </li>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Loan and Advances
+                                </a>
+
+                              </li>
+                            </ul>
+                          
+                        </div>
+                   <div>
+                  
+                            <ul className=' pl-32 text-[15px]'>
+                              <li>
+                                <a href="/" className='block p-2 -mx-2
+                                rounded-lg
+                                hover:bg-gradient-to-br
+                                hover:from-indigo-50
+                                hover:to-pink-50
+                                hover:via-blue-50 transition
+                                ease-in-out duration-300 
+                                text-gray-800 font-semibold
+                                hover:text-indigo-600'>Others
+                                </a>
+
+                              </li>
+                             
+                            </ul>
+                   </div>
+                          </div>   
+                    </div>
+                  </div>
+            
+                </div>
+                </li>
+            </ul> </nav></li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>Interest Free</li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>Way To Bank</li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>Contact</li>
