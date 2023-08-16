@@ -10,7 +10,7 @@ const handleNav=()=>{
 } 
     return(
       
-        <div className='fixed  flex justif-between item-center h-17 w-full mx-auto px-4 text-[#4F57A0] bg-[#e6e9e2]'>
+        <div className='fixed z-20 flex justif-between item-center h-17 w-full mx-auto px-4 text-[#4F57A0] bg-[#e6e9e2]'>
              <div className='w-full flex md:flex'>
            <img src={logo} alt="my logo" className="h-24 md:flex" /> 
 
@@ -18,18 +18,18 @@ const handleNav=()=>{
            
         
            <ul className='h-18  hidden md:flex'>
-           <nav className='flex pr-8 '>
+           <nav className='flex pr-4 '>
             <ul className='flex items-center justify-center font-semibold'>
                 <li className='relative group px-3 py-2'>
                 <button className='hover:opacity-50 cursor-default'>
                  <a href="/"> Home </a></button> </li> 
                 </ul></nav>
           <nav className='flex  '>
-            <ul className='flex pr-8 items-center justify-center font-semibold'>
+            <ul className='flex pr-4 items-center justify-center font-semibold'>
                 <li className='relative group px-3 py-2'>
 
-                <button className='hover:opacity-50 cursor-default'>About Us</button>
-                <div className='absolute top-7 -left-48 transition
+                <button className='hover:opacity-50 cursor-default whitespace-nowrap'>About Us</button>
+                <div className='absolute top-2 -left-48 transition
                 group-hover:translate-y-5 translate-y-0
                 opacity-0 invisible group-hover:opacity-100
                 group-hover:visible duration-500 ease-in-out
@@ -50,7 +50,7 @@ const handleNav=()=>{
                       
                             <ul className=' text-[15px]'>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/who" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -63,7 +63,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/corporateg" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -76,7 +76,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/board" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -89,7 +89,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/giving" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -157,7 +157,7 @@ const handleNav=()=>{
             </ul>
           
          
-            <ul className='flex pr-8 items-center justify-center font-semibold'>
+            <ul className='flex pr-4 items-center justify-center font-semibold'>
                 <li className='relative group px-4 py-7'>
 
                 <button className='hover:opacity-50 cursor-default'>Conventional</button>
@@ -491,12 +491,12 @@ const handleNav=()=>{
                 </li>
             </ul>
           </nav>
-          <nav className='flex pr-8'>
+          <nav className='flex pr-4'>
             <ul className='flex items-center justify-center font-semibold'>
                 <li className='relative group px-3 py-2'>
 
-                <button className='hover:opacity-50 cursor-default'>Interest Free</button>
-                <div className='absolute top-7 -left-48 transition
+                <button className='hover:opacity-50 cursor-default whitespace-nowrap'>Interest Free</button>
+                <div className='absolute top-2 -left-48 transition
                 group-hover:translate-y-5 translate-y-0
                 opacity-0 invisible group-hover:opacity-100
                 group-hover:visible duration-500 ease-in-out
@@ -769,7 +769,7 @@ const handleNav=()=>{
             </ul>
           </nav>
            
-          <nav className='flex pr-6'>
+          <nav className='flex pr-4'>
             <ul className='flex items-center justify-center font-semibold'>
                 <li className='relative group px-3 py-8'>
 
@@ -846,12 +846,12 @@ const handleNav=()=>{
                 </li>
             </ul>
          </nav>
-         <nav className='flex pr-8'>
+         <nav className='flex pr-4'>
             <ul className='flex items-center justify-center font-semibold'>
                 <li className='relative group px-3 py-3'>
 
-                <button className='hover:opacity-50 cursor-default'>Ways To Bank</button>
-                <div className='absolute top-10 -left-48 transition
+                <button className='hover:opacity-50 cursor-default whitespace-nowrap'>Ways To Bank</button>
+                <div className='absolute top-3 -left-48 transition
                 group-hover:translate-y-5 translate-y-0
                 opacity-0 invisible group-hover:opacity-100
                 group-hover:visible duration-500 ease-in-out
@@ -872,7 +872,7 @@ const handleNav=()=>{
                       
                             <ul className=' text-[15px]'>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/card" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -885,7 +885,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/mobile" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -898,7 +898,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/internet" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -918,7 +918,7 @@ const handleNav=()=>{
                   
                             <ul className=' text-[15px]'>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/agent" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -931,7 +931,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/atm" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -966,13 +966,13 @@ const handleNav=()=>{
                 </li>
             </ul>
          </nav>
-         <nav className='flex pr-12'>
+         <nav className='flex pr-2'>
             <ul className='flex items-center justify-center font-semibold'>
                 <li className='relative group px-3 py-2'>
                 <button className='hover:opacity-50 cursor-default'><a href="/contact"> Contact </a></button> </li> 
                 </ul></nav>
-            <button className='p-4 m-4  rounded-2xl text-[#ffffff] bg-[#4F57A0] '>Online Banking</button>
-            < AiOutlineSearch className="hover:scale-150 duration-200 h-11 w-11 mt-6 mr-4 text-[#4F57A0]  " aria-hidden="true" />
+            <button className='p-4 m-4  rounded-2xl text-[#ffffff] bg-[#4F57A0] whitespace-nowrap '>Online Banking</button>
+           <a href="/searchpage"> < AiOutlineSearch className="hover:scale-150 duration-200 h-6 w-6 mt-6 mr-4 text-[#4F57A0]  " aria-hidden="true" /> </a>
            </ul>
            <div onClick={handleNav} className='block mt-8 md:hidden'>
             {!nav ?<AiOutlineClose  size={20}/>: <AiOutlineMenu size={20}/>}
@@ -1020,7 +1020,7 @@ const handleNav=()=>{
                       
                             <ul className=' pl-32 text-[15px]'>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/who" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -1033,7 +1033,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/corporteg" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -1046,7 +1046,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/board" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -1059,7 +1059,7 @@ const handleNav=()=>{
 
                               </li>
                               <li>
-                                <a href="/" className='block p-2 -mx-2
+                                <a href="/giving" className='block p-2 -mx-2
                                 rounded-lg
                                 hover:bg-gradient-to-br
                                 hover:from-indigo-50
@@ -1236,11 +1236,11 @@ const handleNav=()=>{
                 </li>
             </ul> </nav></li>
             <li className='p-2 border-b border-white-600  text-[#ffffff]'>Interest Free</li>
-            <li className='p-2 border-b border-white-600  text-[#ffffff]'>Way To Bank</li>
-            <li className='p-2 border-b border-white-600  text-[#ffffff]'>Contact</li>
-            <li className='p-2  border-b border-white-600 text-[#ffffff]'>International</li>
+            <li className='p-2 border-b border-white-600  text-[#ffffff]'>International</li>
+            <li className='p-2 border-b border-white-600  text-[#ffffff]'>Ways TO Bank</li>
+            <li className='p-2  border-b border-white-600 text-[#ffffff]'> <a href="/contact"> Contact </a></li>
             <button className='p-2 m-2  rounded-0xl text-[#4F57A0] bg-[#ffffff] '>Online Banking</button>
-            < AiOutlineSearch className="h-10 w-10 pl-4 mt-2 mr-4 text-[#fefefe]" aria-hidden="true" />
+            <a href="/searchpage">  < AiOutlineSearch className="h-10 w-10 pl-4 mt-2 mr-4 text-[#fefefe]" aria-hidden="true" /> </a>
            </ul>
            </div>
         </div> 

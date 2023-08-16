@@ -73,7 +73,7 @@ the Geda System which our core values are guided by.
 <div className='bg-white p-6'>
   </div> 
 <div className="flex flex-wrap">
-<div className="w-96 h-96 sm:w-1/2  md:flex">
+<div className="w-full h-full sm:w-1/2  md:flex">
   <img src={img15} alt="img15" className="pl-16 w-full h-full pr-14 md:flex object-cover " />
   </div>
   
@@ -121,7 +121,7 @@ Our new logo and refreshed look indicate a new beginning with customer centricit
    we are people’s Bank!</p>
   </div>
   
-  <div className=" w-96 h-96  sm:w-1/2">
+  <div className=" w-full h-full  sm:w-1/2">
   <img src={img16} alt="img16" className="w-full h-full pl-16 pr-16 md:flex object-cover" />
   </div>
   <div className='bg-white p-6'>

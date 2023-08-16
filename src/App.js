@@ -41,6 +41,16 @@ import Partnership from "./components/Partnership";
 import Trade from "./components/Trade";
 import Coorespondent from "./components/Coorespondent";
 import Contact from "./components/Contact";
+import SearchPage from "./components/SearchPage";
+import Card from "./components/Card";
+import Mobile from "./components/Mobile";
+import Internet from "./components/Internet";
+import Agent from "./components/Agent";
+import Atm from "./components/Atm";
+import WhoWeAre from "./components/WhoWeAre";
+import BoardOfDirectors from "./components/BoardOfDirectors";
+import CorporateGovernance from "./components/CorporateGovernance";
+import GivingBack from "./components/GivingBack";
 function App() {
   return (
     <>
@@ -87,6 +97,16 @@ function App() {
       <Route path='/trade' element={<Trade/>}/>
       <Route path='/coorespondent' element={<Coorespondent/>}/>
       <Route path='/contact' element={<Contact/>}/>
+      <Route path='/searchpage' element={<SearchPage/>}/>
+      <Route path='/card' element={<Card/>}/>
+      <Route path='/mobile' element={<Mobile/>}/>
+      <Route path='/internet' element={<Internet/>}/>
+      <Route path='/agent' element={<Agent/>}/>
+      <Route path='/atm' element={<Atm/>}/>
+      <Route path='/who' element={<WhoWeAre/>}/>
+      <Route path='/board' element={<BoardOfDirectors/>}/>
+      <Route path='/corporateg' element={<CorporateGovernance/>}/>
+      <Route path='/giving' element={<GivingBack/>}/>
      </Routes>
      <Footer/>
      
