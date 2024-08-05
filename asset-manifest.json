@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SifenTesfa/OIB-website.git/static/css/main.ff88bd20.css",
-    "main.js": "/SifenTesfa/OIB-website.git/static/js/main.c711600a.js",
+    "main.js": "/SifenTesfa/OIB-website.git/static/js/main.cf824233.js",
     "static/media/BerhanuC.jpg": "/SifenTesfa/OIB-website.git/static/media/BerhanuC.d935c552f11bf82a5646.jpg",
     "static/media/ZelekeC.jpg": "/SifenTesfa/OIB-website.git/static/media/ZelekeC.80c0b4e1f478dee63917.jpg",
     "static/media/tesfayeC.jpg": "/SifenTesfa/OIB-website.git/static/media/tesfayeC.6fa030b257e3b192786c.jpg",
@@ -144,10 +144,10 @@
     "static/media/img63.png": "/SifenTesfa/OIB-website.git/static/media/img63.649b951df0fd3934be6c.png",
     "index.html": "/SifenTesfa/OIB-website.git/index.html",
     "main.ff88bd20.css.map": "/SifenTesfa/OIB-website.git/static/css/main.ff88bd20.css.map",
-    "main.c711600a.js.map": "/SifenTesfa/OIB-website.git/static/js/main.c711600a.js.map"
+    "main.cf824233.js.map": "/SifenTesfa/OIB-website.git/static/js/main.cf824233.js.map"
   },
   "entrypoints": [
     "static/css/main.ff88bd20.css",
-    "static/js/main.c711600a.js"
+    "static/js/main.cf824233.js"
   ]
 }
