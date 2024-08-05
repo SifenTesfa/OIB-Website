@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OIB-website/static/css/main.ff88bd20.css",
-    "main.js": "/OIB-website/static/js/main.5cb761ef.js",
+    "main.js": "/OIB-website/static/js/main.c690b638.js",
     "static/media/BerhanuC.jpg": "/OIB-website/static/media/BerhanuC.d935c552f11bf82a5646.jpg",
     "static/media/ZelekeC.jpg": "/OIB-website/static/media/ZelekeC.80c0b4e1f478dee63917.jpg",
     "static/media/tesfayeC.jpg": "/OIB-website/static/media/tesfayeC.6fa030b257e3b192786c.jpg",
@@ -144,10 +144,10 @@
     "static/media/img63.png": "/OIB-website/static/media/img63.649b951df0fd3934be6c.png",
     "index.html": "/OIB-website/index.html",
     "main.ff88bd20.css.map": "/OIB-website/static/css/main.ff88bd20.css.map",
-    "main.5cb761ef.js.map": "/OIB-website/static/js/main.5cb761ef.js.map"
+    "main.c690b638.js.map": "/OIB-website/static/js/main.c690b638.js.map"
   },
   "entrypoints": [
     "static/css/main.ff88bd20.css",
-    "static/js/main.5cb761ef.js"
+    "static/js/main.c690b638.js"
   ]
 }
