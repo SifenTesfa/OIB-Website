@@ -34,18 +34,103 @@ const Coorespondent = () => {
 </div>  
     <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center'>
         <div>
-  <img src={img58} alt="img58" className='w-36 h-24 m-16'/>
-  <p></p>
+  <img src={img58} alt="img58" className='w-36 h-24 ml-16 mr-16 mt-16'/>
+  <p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Citibank NA Currency: USD 
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Country: USA City: New York
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Swift Code: CITIUS33
+
+</p>
   </div>
-  <img src={img58} alt="img58" className='w-36 h-24 m-16 '/>
-  <img src={img59} alt="img59" className='w-36 h-24 m-16'/>
-  <img src={img59} alt="img59" className='w-36 h-24 m-16'/>
+  <div>
+  <img src={img58} alt="img58" className='w-36 h-24 ml-16 mr-16 mt-16 '/> 
+  <p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Citibank NA Currency: USD 
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'>  Country: England City: London 
+
+
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Swift Code: CITIGB2L
+
+</p>
   </div>
-  <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center'>
-  <img src={img60} alt="img60" className='w-36 h-24 m-16'/>
-  <img src={img61} alt="img61" className='w-36 h-24 m-16'/>
-  <img src={img62} alt="img62" className='w-36 h-24 m-16'/>
-  <img src={img63} alt="img63" className='w-36 h-24 m-16'/>
+  <div>
+  <img src={img59} alt="img59" className='w-36 h-24 ml-16 mr-16 mt-16'/> 
+  <p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Commerz Bank AG Currency: USD  
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Country: Germany City: Frankfurt
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Swift Code: COBADEFF
+
+</p>
+  </div>
+  <div>
+  <img src={img59} alt="img59" className='w-36 h-24 ml-16 mr-16 mt-16'/>
+  <p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Commerz Bank AG Currency: EURO  
+
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Country: Germany City: Frankfurt
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Swift Code: COBADEFF
+
+</p>
+   </div>
+  </div>
+  <div className='flex flex-col pb-16 items-center justify-center sm:flex-row sm:justify-center'>
+    <div>
+  <img src={img60} alt="img60" className='w-36 h-24 ml-16 mr-16 mt-16'/>
+  <p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'>ODDO-BHF Bank Currency: EURO  
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Country: Germany City: Frankfurt
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Swift Code: BHFBDEFF
+
+</p>
+   </div>
+  <div>
+  <img src={img61} alt="img61" className='w-36 h-24 ml-16 mr-16 mt-16'/>
+  <p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> CAC International Bank Currency: USD  
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Country: Djibouti City: Djibouti
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Swift Code: CACDDJJD
+
+</p>
+  </div>
+  <div>
+  <img src={img62} alt="img62" className='w-48 h-24 ml-16 mr-16 mt-16'/>
+  <p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> BMCE Bank Currency: USD  
+
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Country: Spain City: Madrid
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Swift Code: BMCEESMM
+
+</p>
+  </div>
+  <div>
+  <img src={img63} alt="img63" className='w-40 h-24 ml-16 mr-16 mt-16'/> 
+  <p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Bank of Africa Currency: USD  
+
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Country: Djibouti City: Djibouti
+
+</p>
+<p className='text-sm pl-10  text-[#4F57A0] leading-relaxed m-2'> Swift Code: MRINDJJD
+
+</p>
+  </div>
   </div>
   
     </div>

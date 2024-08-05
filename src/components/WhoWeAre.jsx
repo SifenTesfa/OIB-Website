@@ -14,7 +14,7 @@ const WhoWeAre = () => {
         return (
             
      <div> 
-      <div className='w-full h-[90vh] '>
+      <div className='w-full pt-24 '>
    <img src={rhero} alt='hero' className="w-full h-full pb-12 md:flex object-cover" />
    <div className='max-w-[1140px] m-auto'>
     <div className='absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full flex flex-col text-white p-4'>
@@ -22,7 +22,7 @@ const WhoWeAre = () => {
    <p class="mt-5 mb-5  text-lg text-white opacity-70">Leave us a little info, and we’ll be in touch.</p>
    <div>
    <a class="mt-8 px-12 py-3 bg-gradient-to-r from-[#88cf09]  to-[#4F57A0]  text-xl text-white/70 font-semibold drop-shadow-lg rounded-full"
-                href="/">Contact Us</a>
+                href="/contact">Contact Us</a>
                 </div>
                 </div>
    </div>

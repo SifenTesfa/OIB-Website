@@ -40,7 +40,7 @@ const SearchPage = () => {
           </div>
         </div>
       )}
-      <div onClick={nav ? handleClose : handleNav} className="mt-8">
+      <div onClick={nav ? handleClose : handleNav} className="mt-0">
           
           <AiOutlineSearch size={40} />
         

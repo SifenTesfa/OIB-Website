@@ -29,10 +29,10 @@ const BoardOfDirectors = () => {
    <div className='max-w-[1140px] m-auto'>
     <div className='absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full flex flex-col text-white p-4'>
    <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold "> Board of Directors</h1>
-   <p className=" mb-15  text-lg text-white opacity-70">Leave us a little info, and we’ll be in touch.</p>
+   <p class="mt-5 mb-5  text-lg text-white opacity-70">Leave us a little info, and we’ll be in touch.</p>
    <div >
    <a class="mt-10 px-12 py-3 bg-gradient-to-r from-[#88cf09]  to-[#4F57A0]  text-xl text-white/70 font-semibold drop-shadow-lg rounded-full"
-                href="/">Contact Us</a>
+                href="/contact">Contact Us</a>
    </div>
    </div>
     </div>
