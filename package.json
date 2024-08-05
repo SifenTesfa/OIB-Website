@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emailjs/browser": "^3.11.0",
+    "@emailjs/browser": "^3.12.1",
     "@fortawesome/fontawesome-free": "^6.4.2",
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18",
@@ -33,7 +33,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/SifenTesfa/OIB-website.git",
+ "homepage": "https://sifentesfa.github.io/OIB-website",
   "eslintConfig": {
     "extends": [
       "react-app",
