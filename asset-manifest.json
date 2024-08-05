@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SifenTesfa/OIB-website.git/static/css/main.ff88bd20.css",
-    "main.js": "/SifenTesfa/OIB-website.git/static/js/main.04af175e.js",
+    "main.css": "/SifenTesfa/OIB-website.git/static/css/main.0936ae98.css",
+    "main.js": "/SifenTesfa/OIB-website.git/static/js/main.46bd9592.js",
     "static/media/BerhanuC.jpg": "/SifenTesfa/OIB-website.git/static/media/BerhanuC.d935c552f11bf82a5646.jpg",
     "static/media/ZelekeC.jpg": "/SifenTesfa/OIB-website.git/static/media/ZelekeC.80c0b4e1f478dee63917.jpg",
     "static/media/tesfayeC.jpg": "/SifenTesfa/OIB-website.git/static/media/tesfayeC.6fa030b257e3b192786c.jpg",
@@ -88,11 +88,13 @@
     "static/media/img103.jfif": "/SifenTesfa/OIB-website.git/static/media/img103.ef46dcd23f060e29e7aa.jfif",
     "static/media/MulugetaB.jpg": "/SifenTesfa/OIB-website.git/static/media/MulugetaB.bafc3bfcca88a0cd1728.jpg",
     "static/media/WorkuB.jpg": "/SifenTesfa/OIB-website.git/static/media/WorkuB.cb9d80047c15e1c80e0b.jpg",
+    "static/media/award.jpg": "/SifenTesfa/OIB-website.git/static/media/award.e76c6d2dbe9ac2b4e7a0.jpg",
     "static/media/GemechuB.jpg": "/SifenTesfa/OIB-website.git/static/media/GemechuB.5d6574a14f7c11335e58.jpg",
     "static/media/FantaB.jpg": "/SifenTesfa/OIB-website.git/static/media/FantaB.210865ee8918789247d3.jpg",
     "static/media/img84.jpg": "/SifenTesfa/OIB-website.git/static/media/img84.a0ace3cf6b98e2c56f96.jpg",
     "static/media/GudetaB.jpg": "/SifenTesfa/OIB-website.git/static/media/GudetaB.1f2bd0bc844ae7de90e1.jpg",
     "static/media/rhero.jpg": "/SifenTesfa/OIB-website.git/static/media/rhero.74d4f3b2c068d00ae6b2.jpg",
+    "static/media/build.jpg": "/SifenTesfa/OIB-website.git/static/media/build.1083ed1859dc9969743d.jpg",
     "static/media/SamuelB.jpg": "/SifenTesfa/OIB-website.git/static/media/SamuelB.79e7fc7847e30a17bcc9.jpg",
     "static/media/SolomonB.jpg": "/SifenTesfa/OIB-website.git/static/media/SolomonB.a57fce5ab6c2e55b5f0e.jpg",
     "static/media/img92.jpg": "/SifenTesfa/OIB-website.git/static/media/img92.94bbc44a2f63b63a5921.jpg",
@@ -135,6 +137,7 @@
     "static/media/img25.jpg": "/SifenTesfa/OIB-website.git/static/media/img25.0ef4fee5c43ec177838f.jpg",
     "static/media/img21.png": "/SifenTesfa/OIB-website.git/static/media/img21.9902dd78904cb2237506.png",
     "static/media/img19.png": "/SifenTesfa/OIB-website.git/static/media/img19.9dd78dd40fe524e5161a.png",
+    "static/media/ban.jfif": "/SifenTesfa/OIB-website.git/static/media/ban.c8d41a876abe9e086d7e.jfif",
     "static/media/old.jpg": "/SifenTesfa/OIB-website.git/static/media/old.66c3bcea503d9faf8686.jpg",
     "static/media/img46.png": "/SifenTesfa/OIB-website.git/static/media/img46.c8292a5b9c36a34ad634.png",
     "static/media/Elect.png": "/SifenTesfa/OIB-website.git/static/media/Elect.3ae677d762366ef22214.png",
@@ -143,11 +146,11 @@
     "static/media/img54.png": "/SifenTesfa/OIB-website.git/static/media/img54.743f9d01e853003a5556.png",
     "static/media/img63.png": "/SifenTesfa/OIB-website.git/static/media/img63.649b951df0fd3934be6c.png",
     "index.html": "/SifenTesfa/OIB-website.git/index.html",
-    "main.ff88bd20.css.map": "/SifenTesfa/OIB-website.git/static/css/main.ff88bd20.css.map",
-    "main.04af175e.js.map": "/SifenTesfa/OIB-website.git/static/js/main.04af175e.js.map"
+    "main.0936ae98.css.map": "/SifenTesfa/OIB-website.git/static/css/main.0936ae98.css.map",
+    "main.46bd9592.js.map": "/SifenTesfa/OIB-website.git/static/js/main.46bd9592.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff88bd20.css",
-    "static/js/main.04af175e.js"
+    "static/css/main.0936ae98.css",
+    "static/js/main.46bd9592.js"
   ]
 }
