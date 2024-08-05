@@ -2,7 +2,7 @@ import React from 'react';
 import logo from "../images/logo.png";
 import { FaTelegram } from 'react-icons/fa';
 import { AiOutlineFacebook, AiOutlineYoutube, AiOutlineLinkedin, AiOutlineTwitter } from 'react-icons/ai';
-import Sliding1 from './Sliding1';
+import Sliding1 from './sliding1';
 
 const Footer = () => {
   return (
