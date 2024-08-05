@@ -1,12 +1,14 @@
 import React from 'react';
-import logo from "../images/logo.png"
-import {FaTelegram} from 'react-icons/fa'
-import {AiOutlineFacebook,AiOutlineYoutube,AiOutlineLinkedin,AiOutlineTwitter} from 'react-icons/ai'
+import logo from "../images/logo.png";
+import { FaTelegram } from 'react-icons/fa';
+import { AiOutlineFacebook, AiOutlineYoutube, AiOutlineLinkedin, AiOutlineTwitter } from 'react-icons/ai';
+import Sliding1 from './Sliding1';
+
 const Footer = () => {
   return (
-  <div>
-    <footer className="bg-[#4F57A0]">
-      
+    <div>
+      <footer className="bg-[#4F57A0]">
+        
       <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div className="flex flex-wrap justify-between">
           <div className="w-full md:w-1/3 lg:w-1/4 mb-8 md:mb-0">
@@ -16,17 +18,17 @@ const Footer = () => {
             With its headquarters located in front of Dembel City Centre, near Getu Commercial Center 
             in its own 13 story building on Africa Avenue (Bole Road).</p>
           </div>
-          <div className="w-full md:w-1/3 lg:w-1/4 mb-8 md:mb-0">
-            <h3 className="text-white mb-4">Links</h3>
-            <ul className="list-none">
-              <li className="text-gray-300 hover:text-white text-sm mb-2 block">Home</li>
-              <li className="text-gray-300 hover:text-white text-sm mb-2 block">Services</li>
-              <li className="text-gray-300 hover:text-white text-sm mb-2 block">Contact Us</li>
-            </ul>
+          <div className="w-full md:w-1/3 lg:w-1/4 mb-4 md:mb-0">
+            <p className='text-white text-[20px] font-bold'>Money Transfer</p>
+          <div className="flex h-40 w-40 justify-center items-center">
+          <Sliding1 />
+        </div>
+           
             <div className='w-full'>
            <img src={logo} alt="my logo" className="h-24" /> 
 
             </div>
+            
           </div>
           <div className="w-full md:w-1/3 lg:w-1/4 mb-8 md:mb-0">
             <h3 className="text-white mb-4">Contact Us</h3>
