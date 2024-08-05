@@ -1,17 +1,35 @@
-import React, { useState } from 'react';
+import React, { useState,useRef } from 'react';
+import emailjs from '@emailjs/browser';
+import Swal from 'sweetalert2';
 import img90 from '../images/img90.jpg'
 const Contact = () => {
     const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [subject, setSubject] = useState('');
   const [message, setMessage] = useState('');
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_925khve', 'template_cvi2qo9', form.current, 'iy4c_B5uNK5SbY05u')
+      .then((result) => {
+          console.log(result.text);
+          console.log("message sent");
+          e.target.reset();
+          Swal.fire({
+            title: 'Email Sent',
+            text: 'Your message has been successfully sent!',
+            icon: 'success',
+            confirmButtonText: 'OK'
+          });
+              }, (error) => {
+          console.log(error.text);
+      });
+  };
 
   // Function to handle form submission
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // Perform any desired action with the form data
-    console.log('Submitted:', { name, email, subject, message });
-  };
+ 
   return (
     <div>
    <div className="pt-24 mx-auto">
@@ -32,7 +50,7 @@ const Contact = () => {
   <p className=" text-xl mb-4 font-bold pl-10 p-1 text-[#88cf09]  sm:text-1xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Reach out to us in the nearest office.</p></div>
         <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center'>
         <div className="w-full pt-8 max-w-md mx-auto">
-      <form onSubmit={handleSubmit} className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+      <form  ref={form} onSubmit={sendEmail} className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
         {/* Name field */}
         <div className="mb-4">
           <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="name">
@@ -40,7 +58,7 @@ const Contact = () => {
           </label>
           <input
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-            id="name"
+            id="name" name="user_name"
             type="text"
             placeholder="Enter your name"
             value={name}
@@ -50,13 +68,13 @@ const Contact = () => {
 
         {/* Email field */}
         <div className="mb-4">
-          <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="email">
+          <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="user_email">
             Email
           </label>
           <input
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
             id="email"
-            type="email"
+            type="email" name="user_email"
             placeholder="Enter your email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
@@ -65,13 +83,13 @@ const Contact = () => {
 
         {/* Subject field */}
         <div className="mb-4">
-          <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="subject">
+          <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="user_subject">
             Subject
           </label>
           <input
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
             id="subject"
-            type="text"
+            type="text" name="user_subject"
             placeholder="Enter the subject"
             value={subject}
             onChange={(e) => setSubject(e.target.value)}
@@ -85,7 +103,7 @@ const Contact = () => {
           </label>
           <textarea
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-            id="message"
+            id="message"   name="message"
             placeholder="Enter your message"
             value={message}
             onChange={(e) => setMessage(e.target.value)}
@@ -96,7 +114,7 @@ const Contact = () => {
         <div className="flex items-center justify-center">
           <button
             className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
-            type="submit"
+            type="submit" value="Send"
           >
             Submit
           </button>

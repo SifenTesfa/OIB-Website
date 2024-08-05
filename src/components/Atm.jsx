@@ -109,7 +109,7 @@ const atm = () => {
 <div className='border '>
 <img src={img21} alt="img21" className=" pl-16  w-full h-full pb-12 md:flex object-cover" /></div>
 </div>  
-<div className='p ml-6'>
+<div className='pt-16 ml-6'>
 <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
 <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
 </p>
@@ -232,667 +232,548 @@ const atm = () => {
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bako
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Balcha
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    </div>
-    <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-     
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Dulo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bale Robe
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Baro Tumsa
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Batu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bedele
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Biftu (SNAP)
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bilal
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Birbirsa
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bishoftu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bisrat Gebriel
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bole
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bole michael
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Boset
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Bule Hora
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Burayu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Burka
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Burka Jato
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Chiro
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Dole Dembel
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Dembela
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Dembi Dollo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Derara
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Derartu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Dessie
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Didimtu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Dilla
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Dodolla
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Doka Bora
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Dukem
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Ekka
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Elemo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Elili
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Biftu #2
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Fincha
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Finfine
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Fitche
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Furi
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">G.Tadese.Biru
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Gambela
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Garbaguracha
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Habebe Tufa
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Genet Hotel
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Gerji
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Gimbi
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Ginchi
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Gindeberet
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Ginir
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Golbo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Gonder
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Guder
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Guje Gefersa
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Gulelle
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Hafatisa
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Harbu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Harer
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Hawassa
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Hawassa
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Hayat
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Hirmata
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Holeta
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Hora
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Hora arsedi
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Huluka Korma
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Jemo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Jemo #2
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Jigjiga
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Kality
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Kemise
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Kereyu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Keta Burayu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Kolfe
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Kombolcha
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Kotebe
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Kumsa Moroda
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Labu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Lafto
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Laga Tafo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Harbu #2
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Lemhotel
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Megalla
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Mekele
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Meki
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Mendi
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Mesalamiya
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Metu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Mexico
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Mizan Aman
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Modjo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Moenco
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Moyale
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Nedjo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Nekemte
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Oda
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Shebu Ejersa
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Robele
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Salogora
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Saris
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Sebeta
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Shakiso
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Shalla
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Shashamane
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Sheger
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Sheno
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Sibu sire
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Sofumer
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">sora lome
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Sululta
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Tana
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Tulu Meti
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Urji
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Utawayu
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Wadesa
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Wadessa #2
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Waliso
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Wallo sefer
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p> </div>
     </div>
     <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Wayu
 </p>
      
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Yabelo
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
     Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
+   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Yerer
 </p>
     <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    </div>
-    <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-     
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    </div>
-    <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-     
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    </div>
-    <div className='flex  flex-col items-center justify-center sm:flex-row sm:justify-center' >
-<div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-     
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p></div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p></div>
-   <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    <div className='p-4'> <p className=" text-xl mb-4 font-bold p-1 text-[#4F57A0] pb-4 sm:text-3xl mx-auto flex flex-col items-center h-50 md:flex-row writing-mode-vertical-rl">Arat Kilo #2
-</p>
-    <p className=" text-sm p-1 text-[#4F57A0] leading-relaxed m-2">
-    Lobby at 6k university</p> </div>
-    </div> 
+    Lobby at 6k university</p> </div> </div>
+    
+    
     </div> 
     
 <div className='flex flex-col items-center justify-center sm:flex-row sm:justify-center border pt-24 pb-24'>

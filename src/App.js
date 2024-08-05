@@ -51,6 +51,7 @@ import WhoWeAre from "./components/WhoWeAre";
 import BoardOfDirectors from "./components/BoardOfDirectors";
 import CorporateGovernance from "./components/CorporateGovernance";
 import GivingBack from "./components/GivingBack";
+import BankAchievement from "./components/BankAchievement";
 function App() {
   return (
     <>
@@ -107,6 +108,7 @@ function App() {
       <Route path='/board' element={<BoardOfDirectors/>}/>
       <Route path='/corporateg' element={<CorporateGovernance/>}/>
       <Route path='/giving' element={<GivingBack/>}/>
+      <Route path='/banka' element={<BankAchievement/>}/>
      </Routes>
      <Footer/>
      

@@ -14,7 +14,7 @@ import img30 from '../images/img30.jpg'
 import img32 from '../images/img32.jpg'
 const Diaspora = () => {
   return (
-    <div className='pt-28'>
+    <div className='pt-24'>
        
     <img src={img67} alt="img67" className="w-full h-full pb-12 md:flex object-cover" />
     <div className="bg-[#ffffff] w-full sm:w-1/2 px-2 pl-16 ">
